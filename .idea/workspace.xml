@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9c711055-1453-4873-b065-2b35c1ca0ae4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/engeto/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/engeto/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +10,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y57AmVYMJALt08lDHpd5hjfqeF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +37,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.GreatestInList">
+    <configuration name="GreatestInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.engeto.GreatestInList" />
+      <module name="lekce5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.engeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.engeto.Main" />
       <module name="lekce5" />
@@ -39,8 +61,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondPlusThird" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.engeto.SecondPlusThird" />
+      <module name="lekce5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.engeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShortCircuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.engeto.ShortCircuit" />
+      <module name="lekce5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.engeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueVersusReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.engeto.ValueVersusReference" />
+      <module name="lekce5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.engeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ShortCircuit" />
+      <item itemvalue="Application.ValueVersusReference" />
+      <item itemvalue="Application.SecondPlusThird" />
+      <item itemvalue="Application.GreatestInList" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GreatestInList" />
+        <item itemvalue="Application.SecondPlusThird" />
+        <item itemvalue="Application.ValueVersusReference" />
+        <item itemvalue="Application.ShortCircuit" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -63,7 +135,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
